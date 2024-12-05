@@ -1,4 +1,4 @@
-Triple-Triple
+Basketball Simulation Engine
 =============
 
-[![Build Status](https://travis-ci.org/parul-l/Triple-Triple.svg?branch=master)](https://travis-ci.org/parul-l/Triple-Triple)
+[![Original Slides (2017)](https://parul-l.github.io/nba-simulator-slides.html)]
